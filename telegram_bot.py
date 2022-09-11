@@ -11,7 +11,7 @@ from telegram.ext.filters import Filters
 
 ### Global variables
 # API key provided by FatherBot
-updater = Updater("5574694542:AAHkAFQBkqiOPM9Q2-y76g_dG6Oi00ilnig",
+updater = Updater(null,
                   use_context=True)
   
 ### Functions
